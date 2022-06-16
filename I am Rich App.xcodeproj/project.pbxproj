@@ -56,8 +56,8 @@
 		E640CF5B2857F8E300B5637C /* I am Rich App */ = {
 			isa = PBXGroup;
 			children = (
-				E640CF5C2857F8E300B5637C /* AppDelegate.swift */,
 				E640CF5E2857F8E300B5637C /* SceneDelegate.swift */,
+				E640CF5C2857F8E300B5637C /* AppDelegate.swift */,
 				E640CF602857F8E300B5637C /* ViewController.swift */,
 				E640CF622857F8E300B5637C /* Main.storyboard */,
 				E640CF652857F8E600B5637C /* Assets.xcassets */,
@@ -287,6 +287,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = M7YX6MNR35;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -314,6 +315,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = M7YX6MNR35;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "I am Rich App/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
